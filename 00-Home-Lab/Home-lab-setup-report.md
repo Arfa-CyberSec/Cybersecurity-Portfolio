@@ -41,7 +41,7 @@ The VirtualBox environment also contains a Metasploitable virtual machine. At th
 
 ### Figure 1 — VirtualBox Laboratory Environment
 
-**[INSERT SCREENSHOT HERE: `virtualbox-kali-lab.png`]**
+![Kali Linux virtual machine running in VirtualBox](day1-virtualbox.png)
 
 *Figure 1. Kali Linux virtual machine running in Oracle VM VirtualBox. The VirtualBox environment also contains a Metasploitable virtual machine for future controlled laboratory exercises.*
 
@@ -57,8 +57,7 @@ The Kali virtual machine has 2048 MB of allocated memory and a 20 GB virtual dis
 
 ### Figure 2 — Kali Linux System Environment
 
-**[INSERT SCREENSHOT HERE: `kali-system-verification.png`]**
-
+![Kali Linux system verification](kali-system-verification.png)
 *Figure 2. Kali Linux desktop and terminal environment showing system and operating-system verification.*
 
 ---

@@ -28,7 +28,7 @@ The goal of this bootcamp is to strengthen my practical cybersecurity skills and
 | Area | Status |
 |---|---|
 | Home Lab | 🟢 Operational |
-| Linux Foundations | 🔵 In Progress |
+| Linux Foundations | 🟢 In Progress |
 | Network Analysis | ⚪ Not Started |
 | SIEM / Splunk | ⚪ Not Started |
 | Windows Forensics | ⚪ Not Started |
@@ -59,7 +59,7 @@ See [SKILLS-EVIDENCE.md](SKILLS-EVIDENCE.md) for a continuously updated record o
 
 Started: August 2026
 
-Status: Day 1 — Home Lab Setup
+Status: Day 2 — Linux Filesystem
 
 ---
 
